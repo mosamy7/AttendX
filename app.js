@@ -81,7 +81,7 @@ function addShift(code = '', start = '08:00', end = '16:00') {
   div.innerHTML = `
     <div>
       <label>كود الموظف (فارغ = للكل)</label>
-      <input type="text" placeholder="مثال: 00123" class="sh-code" value="${code}">
+      <input type="text" placeholder="مثال: 10097" class="sh-code" value="${code}">
     </div>
     <div>
       <label>بداية الوردية</label>
